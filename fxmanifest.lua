@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'React App For FiveM'
-author 'VIT0'
+author 'Matheus Peluso'
 version '1.0.0'
 
 
