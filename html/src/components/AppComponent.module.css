@@ -1,0 +1,8 @@
+.nui{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    border: 2px solid #fff;
+    padding: 25px;
+    color: #fff;
+}
