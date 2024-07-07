@@ -1,6 +1,6 @@
-local QBCore = exports["qb-core"]:GetCoreObject()
+-- local QBCore = exports["qb-core"]:GetCoreObject() -- not necessary - this is a qbcore tunnel 
 
--- criação do blip
+-- creation the blip marke
 CreateThread(function() 
     while true do
         sleep = 1000
